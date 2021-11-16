@@ -15,3 +15,10 @@ DB_PASSWORD=root
 `php artisan migrate` to create tables in DB
 
 5) run `php artisan db:seed` to seed the data in DB. 
+6) Login to  the site with admin role credentials 
+	login: admin@gmail.com
+	password: password1111
+
+Login to the site with user role  credentials
+	login: user@gmail.com
+	password: password
